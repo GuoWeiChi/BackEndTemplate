@@ -1,0 +1,12 @@
+自己整理的笔记，给大家参考:https://blog.csdn.net/learning_xzj/category_11789386.html
+相关安装包：链接：https://pan.baidu.com/s/1MotchobtQBu6WgJcSDnmuQ?pwd=1111 
+有用，点赞
+
+
+> 🌱本专栏将从基础开始，循序渐进，讲解git的基本使用，希望大家都能够从中有所收获，也请大家多多支持。
+> 📫专栏地址: :watermelon:[git的使用](https://blog.csdn.net/learning_xzj/category_11789386.html)            
+> 📫git相关安装包:[链接地址](https://pan.baidu.com/s/1MotchobtQBu6WgJcSDnmuQ?pwd=1111) 
+> 💬如果文章知识点有错误的地方，请指正！大家一起学习，一起进步。💬
+> <span style="color:#fe2c24;"><strong>🔥 如果感觉博主的文章还不错的话，还请❤️关注、👍点赞、⭐️收藏三连支持👍一下博主哦</span>
+
+@[toc] 
