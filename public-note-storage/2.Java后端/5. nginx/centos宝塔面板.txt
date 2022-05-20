@@ -1,0 +1,7 @@
+外网面板地址: http://183.208.21.74:8888/918786d1
+内网面板地址: http://192.168.8.101:8888/918786d1
+username: qweh80to
+password: 139d2225
+
+链接：https://pan.baidu.com/s/1baD910BQD1DGdwdMmK0qTg?pwd=aaaa 
+提取码：aaaa

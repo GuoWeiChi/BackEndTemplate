@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/** code highlight */
+
+
+.cm-s-inner .cm-comment,
+.cm-s-inner.cm-comment {
+    color: #DA924A;
+}

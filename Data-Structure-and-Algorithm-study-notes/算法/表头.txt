@@ -1,0 +1,12 @@
+> 🌱本专栏将会从基础开始，循序渐进，每天刷一道算法题，也请大家多多支持。数据结构虽然难，但只要肯坚持，一定能学好，希望大家都能够从中有所收获。
+> 📫专栏地址: :grapes:[每日一道算法题专栏](https://blog.csdn.net/learning_xzj/category_11801318.html)                 :watermelon:[数据结构专栏](https://blog.csdn.net/learning_xzj/category_11798126.html)  
+> 📫本专栏的所有代码都将更新在Gitee上，项目地址：[项目地址](https://gitee.com/codinginn/data-structure-and-algorithm.git)
+> 📫相关数据结构演示软件:[链接地址](https://pan.baidu.com/s/1nGI-U9IXpVd6H1BmF_rtxg?pwd=1111) 
+> 📫数据结构在线演示地址：🐳[https://visualgo.net/zh](https://visualgo.net/zh)  🍹[https://algorithm-visualizer.org/]( https://algorithm-visualizer.org/)
+> 💬如果文章知识点有错误的地方，请指正！大家一起学习，一起进步。💬
+> <font color="red"><strong>🔥 如果感觉博主的文章还不错的话，还请❤️关注、👍点赞、⭐️收藏三连支持👍一下博主哦</strong></font>
+
+**准备好了吗**
+***Let's go!***
+![在这里插入图片描述](https://img-blog.csdnimg.cn/66192fba91b04bfc806f85a387c150ca.gif)
+@[toc]
